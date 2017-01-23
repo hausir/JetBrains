@@ -1,0 +1,12 @@
+<application>
+  <component name="RailsApplicationSettings">
+    <option name="wizardRailsFacetPreconfigureDBName" value="mysql" />
+    <option name="wizardRailsFacetTemplates">
+      <array>
+        <option value="" />
+        <option value="/usr/local/bin/rails" />
+        <option value="/usr/local/Cellar/ruby/2.4.0/bin/ruby" />
+      </array>
+    </option>
+  </component>
+</application>
