@@ -296,6 +296,24 @@
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/nio4r-1.2.1/tasks" />
       </SOURCES>
     </library>
+    <library name="nokogiri (v1.7.0.1, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/nokogiri-1.7.0.1/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/nokogiri-1.7.0.1/ext" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/nokogiri-1.7.0.1/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/nokogiri-1.7.0.1/tasks" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/nokogiri-1.7.0.1/patches" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/nokogiri-1.7.0.1/suppressions" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/nokogiri-1.7.0.1/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/nokogiri-1.7.0.1/ext" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/nokogiri-1.7.0.1/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/nokogiri-1.7.0.1/tasks" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/nokogiri-1.7.0.1/patches" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/nokogiri-1.7.0.1/suppressions" />
+      </SOURCES>
+    </library>
     <library name="power_assert (v0.4.1, ruby-2.4.0-p0) [gem]">
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/power_assert-0.4.1/lib" />
