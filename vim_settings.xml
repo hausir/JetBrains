@@ -3,32 +3,81 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/source/study/ognajd/.gitignore" timestamp="1490451886015">
+      <file name="$USER_HOME$/source/study/ognajd/.gitignore" timestamp="1490452308415">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/source/study/ognajd/hello.py" timestamp="1490454004366">
+        <mark key="'" line="3" column="8" />
+        <mark key="[" line="13" column="58" />
+        <mark key="]" line="13" column="67" />
+        <mark key="." line="13" column="67" />
+        <mark key="^" line="13" column="67" />
+      </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="4" column="0" filename="$USER_HOME$/source/study/ognajd/hello.py" />
+      <jump line="34" column="0" filename="$USER_HOME$/source/study/ognajd/hello.py" />
+      <jump line="3" column="8" filename="$USER_HOME$/source/study/ognajd/hello.py" />
+    </jumps>
     <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAnZGphbmdvLm1pZGRsZXdhcmUuY29tbW9uLkNvbW1vbk1pZGRsZXdhcmUnLAo=</text>
+      </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
+      <register name="&quot;" type="4">
+        <text>True</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBwcmludF9mdW5jdGlvbgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFic29sdXRlX2ltcG9ydApmcm9tIF9fZnV0dXJlX18gaW1wb3J0IHVuaWNvZGVfbGl0ZXJhbHMK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>True</text>
+      </register>
+      <register name="/" type="4">
+        <text>DEBUG</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>DEBUG</last-search>
+      <last-offset />
+      <last-pattern>DEBUG</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
-      <history-cmd />
+      <history-search>
+        <entry>DEBUG</entry>
+      </history-search>
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
     <editor>
       <key-repeat enabled="true" />
     </editor>
