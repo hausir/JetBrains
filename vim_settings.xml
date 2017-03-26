@@ -8,11 +8,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/source/study/ognajd/hello.py" timestamp="1490496826166">
-        <mark key="'" line="70" column="0" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
+      <file name="$USER_HOME$/source/study/ognajd/hello.py" timestamp="1490499516069">
+        <mark key="'" line="25" column="13" />
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="80" column="18" />
+        <mark key="." line="80" column="18" />
+        <mark key="^" line="80" column="18" />
       </file>
     </filemarks>
     <jumps>
@@ -22,6 +23,11 @@
       <jump line="46" column="8" filename="$USER_HOME$/source/study/ognajd/hello.py" />
       <jump line="41" column="8" filename="$USER_HOME$/source/study/ognajd/hello.py" />
       <jump line="63" column="0" filename="$USER_HOME$/source/study/ognajd/hello.py" />
+      <jump line="66" column="0" filename="$USER_HOME$/source/study/ognajd/hello.py" />
+      <jump line="13" column="59" filename="$USER_HOME$/source/study/ognajd/hello.py" />
+      <jump line="71" column="0" filename="$USER_HOME$/source/study/ognajd/hello.py" />
+      <jump line="69" column="57" filename="$USER_HOME$/source/study/ognajd/hello.py" />
+      <jump line="25" column="13" filename="$USER_HOME$/source/study/ognajd/hello.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -31,7 +37,7 @@
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>width</text>
+        <text>HttpRes</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGV4dHRvcCA9IChoZWlnaHQgLSB0ZXh0aGVpZ2h0KSAvLyAyCg==</text>
@@ -68,9 +74,9 @@
       </register>
     </registers>
     <search>
-      <last-search>width</last-search>
+      <last-search>HttpRes</last-search>
       <last-offset />
-      <last-pattern>width</last-pattern>
+      <last-pattern>HttpRes</last-pattern>
       <last-replace>height</last-replace>
       <last-substitute>width</last-substitute>
       <last-dir>1</last-dir>
@@ -80,6 +86,7 @@
       <history-search>
         <entry>DEBUG</entry>
         <entry>width</entry>
+        <entry>HttpRes</entry>
       </history-search>
       <history-cmd>
         <entry>s/width/height/g</entry>
