@@ -8,28 +8,29 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/source/study/ognajd/hello.py" timestamp="1490454004366">
-        <mark key="'" line="3" column="8" />
-        <mark key="[" line="13" column="58" />
-        <mark key="]" line="13" column="67" />
-        <mark key="." line="13" column="67" />
-        <mark key="^" line="13" column="67" />
+      <file name="$USER_HOME$/source/study/ognajd/hello.py" timestamp="1490455606152">
+        <mark key="'" line="46" column="8" />
+        <mark key="[" line="47" column="33" />
+        <mark key="]" line="49" column="49" />
+        <mark key="." line="49" column="49" />
+        <mark key="^" line="49" column="49" />
       </file>
     </filemarks>
     <jumps>
       <jump line="4" column="0" filename="$USER_HOME$/source/study/ognajd/hello.py" />
       <jump line="34" column="0" filename="$USER_HOME$/source/study/ognajd/hello.py" />
       <jump line="3" column="8" filename="$USER_HOME$/source/study/ognajd/hello.py" />
+      <jump line="46" column="8" filename="$USER_HOME$/source/study/ognajd/hello.py" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAnZGphbmdvLm1pZGRsZXdhcmUuY29tbW9uLkNvbW1vbk1pZGRsZXdhcmUnLAo=</text>
+        <text encoding="base64">ICAgICAgICB3aWR0aCA9IGZvcm0uY2xlYW5lZF9kYXRhWyd3aWR0aCddCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>True</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB3aWR0aCA9IGZvcm0uY2xlYW5lZF9kYXRhWyd3aWR0aCddCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -47,24 +48,28 @@
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text>width</text>
       </register>
       <register name="/" type="4">
-        <text>DEBUG</text>
+        <text>width</text>
       </register>
     </registers>
     <search>
-      <last-search>DEBUG</last-search>
+      <last-search>width</last-search>
       <last-offset />
-      <last-pattern>DEBUG</last-pattern>
+      <last-pattern>width</last-pattern>
+      <last-replace>height</last-replace>
+      <last-substitute>width</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>DEBUG</entry>
+        <entry>width</entry>
       </history-search>
       <history-cmd>
+        <entry>s/width/height/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
