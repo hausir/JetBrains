@@ -2,14 +2,176 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
-    <jumps />
-    <registers />
+    <filemarks>
+      <file name="$USER_HOME$/source/study/ognajd/.gitignore" timestamp="1490452308415">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/source/jiejing/garage/garage/services/maintenance_comment.py" timestamp="1490578508654">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="12" column="7" />
+        <mark key="." line="12" column="7" />
+        <mark key="^" line="12" column="7" />
+      </file>
+      <file name="$USER_HOME$/source/jiejing/garage/garage/models.py" timestamp="1490577976352">
+        <mark key="'" line="230" column="44" />
+        <mark key="[" line="136" column="4" />
+        <mark key="]" line="136" column="74" />
+        <mark key="^" line="136" column="74" />
+        <mark key="." line="136" column="74" />
+      </file>
+      <file name="$USER_HOME$/source/study/ognajd/hello.py" timestamp="1490537787403">
+        <mark key="'" line="25" column="13" />
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="80" column="18" />
+        <mark key="." line="80" column="18" />
+        <mark key="^" line="80" column="18" />
+      </file>
+      <file name="$USER_HOME$/source/jiejing/garage/garage/controllers/restful/maintenance.py" timestamp="1490581835040">
+        <mark key="'" line="349" column="41" />
+        <mark key="[" line="339" column="24" />
+        <mark key="]" line="413" column="37" />
+        <mark key="^" line="413" column="37" />
+        <mark key="." line="413" column="37" />
+      </file>
+      <file name="$USER_HOME$/source/jiejing/garage/garage/services/maintenance_part.py" timestamp="1490578476146" />
+      <file name="$USER_HOME$/source/jiejing/garage/garage/controllers/restful/__init__.py" timestamp="1490579227274">
+        <mark key="'" line="72" column="50" />
+        <mark key="[" line="17" column="17" />
+        <mark key="]" line="17" column="24" />
+        <mark key="." line="17" column="24" />
+        <mark key="^" line="17" column="24" />
+      </file>
+      <file name="$USER_HOME$/source/jiejing/garage/requirements.txt" timestamp="1490577467942" />
+      <file name="$USER_HOME$/source/jiejing/garage/garage/controllers/restful/maintenance_comment.py" timestamp="1490579765229">
+        <mark key="'" line="161" column="20" />
+        <mark key="[" line="40" column="10" />
+        <mark key="]" line="40" column="16" />
+        <mark key="^" line="40" column="16" />
+        <mark key="." line="40" column="16" />
+      </file>
+      <file name="$USER_HOME$/source/jiejing/garage/garage/services/__init__.py" timestamp="1490579009972">
+        <mark key="[" line="35" column="31" />
+        <mark key="]" line="36" column="51" />
+        <mark key="^" line="36" column="51" />
+        <mark key="." line="36" column="51" />
+      </file>
+      <file name="$USER_HOME$/source/jiejing/garage/garage/controllers/restful/maintenance_part.py" timestamp="1490579349844">
+        <mark key="'" line="5" column="35" />
+        <mark key="[" line="5" column="35" />
+        <mark key="]" line="153" column="42" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="4" column="0" filename="$USER_HOME$/source/study/ognajd/hello.py" />
+      <jump line="34" column="0" filename="$USER_HOME$/source/study/ognajd/hello.py" />
+      <jump line="3" column="8" filename="$USER_HOME$/source/study/ognajd/hello.py" />
+      <jump line="46" column="8" filename="$USER_HOME$/source/study/ognajd/hello.py" />
+      <jump line="41" column="8" filename="$USER_HOME$/source/study/ognajd/hello.py" />
+      <jump line="63" column="0" filename="$USER_HOME$/source/study/ognajd/hello.py" />
+      <jump line="66" column="0" filename="$USER_HOME$/source/study/ognajd/hello.py" />
+      <jump line="13" column="59" filename="$USER_HOME$/source/study/ognajd/hello.py" />
+      <jump line="71" column="0" filename="$USER_HOME$/source/study/ognajd/hello.py" />
+      <jump line="69" column="57" filename="$USER_HOME$/source/study/ognajd/hello.py" />
+      <jump line="25" column="13" filename="$USER_HOME$/source/study/ognajd/hello.py" />
+      <jump line="214" column="67" filename="$USER_HOME$/source/jiejing/garage/garage/models.py" />
+      <jump line="227" column="67" filename="$USER_HOME$/source/jiejing/garage/garage/models.py" />
+      <jump line="47" column="8" filename="$USER_HOME$/source/jiejing/garage/garage/models.py" />
+      <jump line="48" column="15" filename="$USER_HOME$/source/jiejing/garage/garage/models.py" />
+      <jump line="109" column="67" filename="$USER_HOME$/source/jiejing/garage/garage/models.py" />
+      <jump line="110" column="70" filename="$USER_HOME$/source/jiejing/garage/garage/models.py" />
+      <jump line="229" column="44" filename="$USER_HOME$/source/jiejing/garage/garage/models.py" />
+      <jump line="78" column="42" filename="$USER_HOME$/source/jiejing/garage/garage/controllers/restful/__init__.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/source/jiejing/garage/garage/controllers/restful/__init__.py" />
+      <jump line="71" column="50" filename="$USER_HOME$/source/jiejing/garage/garage/controllers/restful/__init__.py" />
+      <jump line="5" column="35" filename="$USER_HOME$/source/jiejing/garage/garage/controllers/restful/maintenance_part.py" />
+      <jump line="155" column="3" filename="$USER_HOME$/source/jiejing/garage/garage/controllers/restful/maintenance_comment.py" />
+      <jump line="154" column="20" filename="$USER_HOME$/source/jiejing/garage/garage/controllers/restful/maintenance_comment.py" />
+      <jump line="349" column="41" filename="$USER_HOME$/source/jiejing/garage/garage/controllers/restful/maintenance.py" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="8">
+        <text encoding="base64">Ompzb25wYXJhbSBzdHJpbmcgCjpqc29ucGFyYW0gc3RyaW5nIAo6anNvbnBhcmFtIHN0cmluZyAKOmpzb25wYXJhbSBzdHJpbmcgCjpqc29ucGFyYW0gc3RyaW5nIAo6anNvbnBhcmFtIHN0cmluZyAKOmpzb25wYXJhbSBzdHJpbmcgCjpqc29ucGFyYW0gc3RyaW5nIAo6anNvbnBhcmFtIHN0cmluZyAKOmpzb25wYXJhbSBzdHJpbmcg</text>
+      </register>
+      <register name="-" type="4">
+        <text>end_bumper</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDzlj7PlkI7pl6hcPg==</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICdlbmRfYnVtcGVyJzogZmllbGRzLlN0cmluZygpLAo=</text>
+      </register>
+      <register name="1" type="8">
+        <text encoding="base64">Ompzb25wYXJhbSBzdHJpbmcgCjpqc29ucGFyYW0gc3RyaW5nIAo6anNvbnBhcmFtIHN0cmluZyAKOmpzb25wYXJhbSBzdHJpbmcgCjpqc29ucGFyYW0gc3RyaW5nIAo6anNvbnBhcmFtIHN0cmluZyAKOmpzb25wYXJhbSBzdHJpbmcgCjpqc29ucGFyYW0gc3RyaW5nIAo6anNvbnBhcmFtIHN0cmluZyAKOmpzb25wYXJhbSBzdHJpbmcg</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICd0eXBlX2lkJzogZmllbGRzLkludGVnZXIoKSwKICAgICdwcm9kdWN0X2lkJzogZmllbGRzLkludGVnZXIoKSwKICAgICdzbic6IGZpZWxkcy5TdHJpbmcoKSwKICAgICdiYXRjaCc6IGZpZWxkcy5TdHJpbmcoKSwKICAgICdzdGF0dXMnOiBmaWVsZHMuSW50ZWdlcigpLAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChjb250ZW50KQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZnJvbSBQSUwgaW1wb3J0IEltYWdlLCBJbWFnZURyYXcK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB3aWR0aCA9IGZvcm0uY2xlYW5lZF9kYXRhWyd3aWR0aCddCiAgICAgICAgaGVpZ2h0ID0gZm9ybS5jbGVhbmVkX2RhdGFbJ2hlaWdodCddCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZnJvbSBQSUwgaW1wb3J0IEltYWdlCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search encoding="base64">XDzlj7PlkI7pl6hcPg==</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDzlj7PlkI7pl6hcPg==</last-pattern>
+      <last-replace>height</last-replace>
+      <last-substitute>width</last-substitute>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
-    <shortcut-conflicts />
+    <history>
+      <history-search>
+        <entry>DEBUG</entry>
+        <entry>width</entry>
+        <entry>HttpRes</entry>
+        <entry>user</entry>
+        <entry>Comment</entry>
+        <entry encoding="base64">XDzlj7PlkI7pl6hcPg==</entry>
+      </history-search>
+      <history-cmd>
+        <entry>s/width/height/g</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
   </component>
 </application>
