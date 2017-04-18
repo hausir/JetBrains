@@ -11,7 +11,7 @@
     <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
   <action id="EditorToggleCase">
-    <keyboard-shortcut first-keystroke="shift #100007e" />
+    <keyboard-shortcut first-keystroke="shift ctrl back_quote" />
   </action>
   <action id="FileChooser.TogglePathShowing" />
   <action id="GotoAction">
