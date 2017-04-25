@@ -236,6 +236,14 @@
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/ast-2.3.0/lib" />
       </SOURCES>
     </library>
+    <library name="awesome_print (v1.7.0, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/awesome_print-1.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/awesome_print-1.7.0/lib" />
+      </SOURCES>
+    </library>
     <library name="bindex (v0.5.0, RVM: ruby-2.3.3 [blog]) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bindex/0.5.0" />
@@ -1318,6 +1326,14 @@
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/monetize-1.6.0/lib" />
       </SOURCES>
     </library>
+    <library name="monetize (v1.6.0, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/monetize-1.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/monetize-1.6.0/lib" />
+      </SOURCES>
+    </library>
     <library name="money (v6.9.0, ruby-2.4.1-p111) [gem]">
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/money-6.9.0/lib" />
@@ -1326,6 +1342,16 @@
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/money-6.9.0/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/money-6.9.0/config" />
+      </SOURCES>
+    </library>
+    <library name="money (v6.9.0, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/money-6.9.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/money-6.9.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/money-6.9.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/money-6.9.0/config" />
       </SOURCES>
     </library>
     <library name="multi_json (v1.12.1, ruby-2.4.1-p111) [gem]">
