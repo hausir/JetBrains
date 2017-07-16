@@ -5,8 +5,9 @@
       <removed_mapping ext="css" type="CSS" />
       <mapping pattern=".roadhogrc" type="JSON" />
       <mapping ext="css" type="Less" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="mo" type="PLAIN_TEXT" />
       <mapping ext="example" type="Python" />
     </extensionMap>
   </component>
