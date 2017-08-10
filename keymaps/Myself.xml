@@ -36,6 +36,9 @@
     <keyboard-shortcut first-keystroke="meta escape" />
   </action>
   <action id="Images.ShowThumbnails" />
+  <action id="NewScratchBuffer">
+    <keyboard-shortcut first-keystroke="ctrl meta n" />
+  </action>
   <action id="ParameterInfo" />
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="alt space" />
