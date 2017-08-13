@@ -28,20 +28,23 @@
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
-  <action id="GotoFile">
-    <keyboard-shortcut first-keystroke="meta p" />
-  </action>
   <action id="GotoTest" />
   <action id="HideActiveWindow">
     <keyboard-shortcut first-keystroke="meta escape" />
   </action>
   <action id="Images.ShowThumbnails" />
+  <action id="NewScratchBuffer">
+    <keyboard-shortcut first-keystroke="ctrl meta n" />
+  </action>
   <action id="ParameterInfo" />
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="alt space" />
   </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift meta t" />
+  </action>
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="meta p" />
   </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="meta d" />
