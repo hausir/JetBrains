@@ -10,6 +10,11 @@
       <value />
     </option>
   </JavaCodeStyleSettings>
+  <codeStyleSettings language="JAVA">
+    <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
+    <option name="BLOCK_COMMENT_AT_FIRST_COLUMN" value="false" />
+    <option name="LINE_COMMENT_ADD_SPACE" value="true" />
+  </codeStyleSettings>
   <codeStyleSettings language="LESS">
     <indentOptions>
       <option name="INDENT_SIZE" value="4" />
