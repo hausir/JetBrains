@@ -1,0 +1,12 @@
+<application>
+  <component name="XcodeNewProjectMetadata">
+    <lastUsedFolder path="$USER_HOME$/source" />
+    <string key="organizationName" value="hausir" />
+    <string key="languageChoice" value="Swift" />
+    <boolean key="storyboardBased" value="true" />
+    <string key="documentExtension" value="mydoc" />
+    <string key="bundleIdentifierPrefix" value="com.hausir" />
+    <boolean key="hasUnitTests" value="true" />
+    <boolean key="hasUITests" value="true" />
+  </component>
+</application>
