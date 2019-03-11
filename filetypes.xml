@@ -2,7 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
-      <mapping pattern="console" type="PLAIN_TEXT" />
+      <removed_mapping pattern="console" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
