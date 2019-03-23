@@ -1,0 +1,15 @@
+<application>
+  <component name="libraryTable">
+    <library name="jweixin-1.4.0" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_res.wx.qq.com_open_js_jweixin-1.4.0.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_res.wx.qq.com_open_js_jweixin-1.4.0.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>
