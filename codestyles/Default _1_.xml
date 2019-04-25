@@ -51,6 +51,10 @@
   </XML>
   <codeStyleSettings language="HTML">
     <option name="RIGHT_MARGIN" value="120" />
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JAVA">
     <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
