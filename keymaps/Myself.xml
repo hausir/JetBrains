@@ -46,13 +46,8 @@
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="alt space" />
   </action>
-  <action id="ReformatCode" />
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift meta t" />
-  </action>
-  <action id="Scala.ShowImplicits">
-    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
-    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
   </action>
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="meta p" />
@@ -76,9 +71,6 @@
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
   <action id="Uml.ShowDiff" />
-  <action id="YapfFormat">
-    <keyboard-shortcut first-keystroke="meta alt l" />
-  </action>
   <action id="com.jetbrains.python.console.RunPythonConsoleAction">
     <keyboard-shortcut first-keystroke="ctrl c" />
   </action>
