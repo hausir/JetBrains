@@ -1367,6 +1367,17 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.4/lib/ruby/gems/2.6.0/gems/factory_bot-5.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="factory_bot (v5.1.1, rbenv: 2.7.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/factory_bot-5.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/factory_bot-5.1.1/lib" />
+      </SOURCES>
+    </library>
     <library name="factory_bot_rails (v5.0.2, rbenv: 2.6.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1376,6 +1387,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.4/lib/ruby/gems/2.6.0/gems/factory_bot_rails-5.0.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="factory_bot_rails (v5.1.1, rbenv: 2.7.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/factory_bot_rails-5.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/factory_bot_rails-5.1.1/lib" />
       </SOURCES>
     </library>
     <library name="faker (v1.9.3@0e8cc7, rbenv: 2.6.4) [gem]" type="rubylib">
