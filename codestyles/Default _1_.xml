@@ -1,9 +1,4 @@
 <code_scheme name="Default (1)" version="173">
-  <option name="OTHER_INDENT_OPTIONS">
-    <value>
-      <option name="USE_TAB_CHARACTER" value="true" />
-    </value>
-  </option>
   <option name="HTML_ALIGN_TEXT" value="true" />
   <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
   <HTMLCodeStyleSettings>

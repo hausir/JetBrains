@@ -2,6 +2,8 @@
   <option name="myName" value="Default" />
   <inspection_tool class="JSUnnecessarySemicolon" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="JSUnusedLocalSymbols" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="PhpFullyQualifiedNameUsageInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="PhpUnnecessaryFullyQualifiedNameInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="PyAttributeOutsideInitInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="PyPackageRequirementsInspection" enabled="false" level="WARNING" enabled_by_default="false">
     <option name="ignoredPackages">
